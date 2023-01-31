@@ -2,7 +2,7 @@
 # Comp 55 Resurrection Project
 
 
-In order to run this project, download the zip file and run the MainApplication.java file.
+In order to run this project, clone the respository and run MainApplication.java file.
 
 For my resurrection project, the feature that I decided to implement was making the screen uniform on all devices that run this game! Before working on this task, when the game is launched by the user it will not take the full screen and has lots of white space if the device is bigger than a 11". I want to fix this issue so that way the user can take full advantage of all screen space given to them on their machine. When the user clicks through the different menus there are lots of issues with uniformity and this creates a bad UX experience for the user. 
 
