@@ -38,11 +38,11 @@ This will ultimately allow for no whitespace to be shown to the user and will cr
 
 
 
-[Menu 1](./media/EndingMenu/Menu1.png)
+![Menu 1](./media/EndingMenu/Menu1.png)
 
 
-[In Game Screen 1](./media/EndingMenu/inGame2.png)
+![In Game Screen 1](./media/EndingMenu/InGame2.png)
 
 
 
-[In Game Screen 2](./media/EndingMenu/inGame3.png)
+![In Game Screen 2](./media/EndingMenu/InGame3.png)
