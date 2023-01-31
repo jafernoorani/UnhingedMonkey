@@ -1,5 +1,5 @@
 
-#Comp 129 Resurrection Project
+# Comp 55 Resurrection Project
 
 
 In order to run this project, download the zip file and run the MainApplication.java file.
